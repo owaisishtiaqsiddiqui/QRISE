@@ -22,33 +22,7 @@
 | **Discord ID** | Abdullah K#8200                   | owaisishtiaqsiddiqui#4549  | jacobpark#3597        |
 | **GitHub ID**  | AbdullahKazi500                   | owaisishtiaqsiddiqui       | JacobPark1080         |
 
-****Member Names:****
-
-------------
-
-**Abdullah Kazi**
-
-GitHub ID: **AbdullahKazi500**
-
- 
-------------
-
-
-**Jacob Park**
-
-
-GitHub ID: JacobPark1080
-
-------------
-
-**Owais Ishtiaq Siddiqui**
-
-
-
-GitHub ID: owaisishtiaqsiddiqui
-
-------------
-
+----------------------
 
 
 ## Problem Statement
