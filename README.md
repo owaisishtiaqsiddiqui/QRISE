@@ -6,6 +6,7 @@
 - [Problem Statement](#ProblemStatement)
   - [Description](#description)
 - [Results](#Results)
+- [Installation](#Installation)
 - [Software & Tools Used](#software--tools-used)
 - [Future Plans](#future-plans)
 - [License](#license)
@@ -54,6 +55,7 @@ GitHub ID: Owais Ishtiaq Siddiqui
 
 ## Results
 
+## Installation
 
 ## software--tools-used
 
