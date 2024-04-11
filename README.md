@@ -17,7 +17,7 @@
 **Team Name:** Feynman Prodigies 
 
 **Challenge Name:** IBM Challenge
-|   **Name**| **Abdullah Kazi**                      | **Owais Ishtiaq Siddiqui** | **Jacob Park** |
+|   **Member Names**| **Abdullah Kazi**                      | **Owais Ishtiaq Siddiqui** | **Jacob Park** |
 |----------------|-----------------------------------|----------------------------|-----------------------|
 | **Discord ID** | Abdullah K#8200                   | owaisishtiaqsiddiqui#4549  | jacobpark#3597        |
 | **GitHub ID**  | AbdullahKazi500                   | owaisishtiaqsiddiqui       | JacobPark1080         |
