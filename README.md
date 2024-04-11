@@ -59,18 +59,23 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 
 'Calculated Free Energy: -2.3291976432715256'
 ## Installation
+!pip install qiskit 
+!pip install qiskit.visualization
+!pip install qiskit-aer
+!pip install qiskit.opflow
+or follow [qiskit migration guide](https://docs.quantum.ibm.com/api/migration-guides/qiskit-opflow-module)
 
 ## software--tools-used
-
+Qiskit, matplotlib,
 ## Future Work
-
+Improvement in Fidelity of more than 99.6%
 ## License
 
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
 
 ## Acknowledgement 
-
+We are sincerely thankful to the IBM Quantum members for creating this exciting challenge and especially to the QRISE mentors for letting us be a part of this challenge.
 
 ## References
- 
-
+1. https://arxiv.org/pdf/2005.08797.pdf
+2. https://arxiv.org/pdf/2312.14139.pdf
