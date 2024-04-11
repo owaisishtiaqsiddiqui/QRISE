@@ -49,7 +49,7 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 
 `!pip install qiskit.opflow`
 
-or follow `[qiskit migration guide](https://docs.quantum.ibm.com/api/migration-guides/qiskit-opflow-module)`
+or follow [qiskit migration guide](https://docs.quantum.ibm.com/api/migration-guides/qiskit-opflow-module)
 
 ## Results
 `Iters. done: 271 [Current cost: -2.3291976432715256]` 
