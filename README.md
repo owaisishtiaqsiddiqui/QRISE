@@ -26,6 +26,7 @@
 
 
 ## Problem Statement
+![image](https://github.com/owaisishtiaqsiddiqui/QRISE/assets/108402760/514cee08-6a08-4ccd-aa60-583d541c6a2f)
 Dynamic Circuit Challenge: Maximizing Performance and Tayloring Noise
 
 ## Description 
