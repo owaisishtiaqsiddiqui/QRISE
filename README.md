@@ -1,4 +1,4 @@
-**QRise Challenge -Quantum Coalition 2024**
+**IBM Quantum QRise Challenge -Quantum Coalition 2024**
 
 # :space_invader: IBM Dynamics Circuit Challenge challenge- Team Feynman Prodigies 
 
@@ -50,6 +50,7 @@ GitHub ID: owaisishtiaqsiddiqui
 
 
 ## Problem Statement
+Dynamic Circuit Challenge: Maximizing Performance and Tayloring Noise
 
 ## Description 
 
