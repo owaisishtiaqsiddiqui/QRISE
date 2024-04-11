@@ -39,11 +39,11 @@ GitHub ID: JacobPark1080
 
 ------------
 
-**Owais Siddiqui**
+**Owais Ishtiaq Siddiqui**
 
 
 
-GitHub ID: Owais Ishtiaq Siddiqui
+GitHub ID: owaisishtiaqsiddiqui
 
 ------------
 
