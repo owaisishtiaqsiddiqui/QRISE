@@ -17,8 +17,10 @@
 **Team Name:** Feynman Prodigies 
 
 **Challenge Name:** IBM Challenge
-
-
+|   **Name**| **Abdullah Kazi**                      | **Owais Ishtiaq Siddiqui** | **Jacob Park** |
+|----------------|-----------------------------------|----------------------------|-----------------------|
+| **Discord ID** | Abdullah K#8200                   | owaisishtiaqsiddiqui#4549  | jacobpark#3597        |
+| **GitHub ID**  | AbdullahKazi500                   | owaisishtiaqsiddiqui       | JacobPark1080         |
 
 ****Member Names:****
 
@@ -60,9 +62,13 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 'Calculated Free Energy: -2.3291976432715256'
 ## Installation
 !pip install qiskit 
+
 !pip install qiskit.visualization
+
 !pip install qiskit-aer
+
 !pip install qiskit.opflow
+
 or follow [qiskit migration guide](https://docs.quantum.ibm.com/api/migration-guides/qiskit-opflow-module)
 
 ## software--tools-used
