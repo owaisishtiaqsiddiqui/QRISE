@@ -44,14 +44,14 @@ First Step- to run locally
 
 Create a conda environment with the required dependencies:
 
-`conda env create -n IBMQRISEproj environement.yml && conda activate IBMQRISEproj `
-Alternatively, one can install the required dependencies via the package_list.txt file:
+`conda env create -n QRISE environement.yml && conda activate QRISE`
+Alternatively, one can install the required dependencies via the package.txt file:
 
-`conda create -yn IBMQRISEproj python==3.9.11 && conda activate IBMQRISEproj`
+`conda create -yn QRISE python==3.9.11 && conda activate QRISE`
 
 `conda update -yn base -c defaults conda && conda install -yc conda-forge pip==22.1.2`
 
-`python3 -m pip install --user --upgrade pip && python3 -m pip install -r requirements.txt`
+`python3 -m pip install --user --upgrade pip && python3 -m pip install -r Package.txt`
 
 QISKIT Installation:
 
