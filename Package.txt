@@ -8,3 +8,4 @@ qiskit-aer
 mthree
 qiskit.primitives
 qiskit_ibm_runtime.fake_provider 
+scipy.optimize- minimize
