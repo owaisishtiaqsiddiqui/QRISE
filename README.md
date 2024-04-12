@@ -40,6 +40,21 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 3. Improvements in the circuit can be made by introducing a more robust error-free model to get the fidelity higher than 99.6%.
 
 ## Installation
+First Step- to run locally
+
+Create a conda environment with the required dependencies:
+
+`conda env create -n IBMQRISEproj environement.yml && conda activate IBMQRISEproj `
+Alternatively, one can install the required dependencies via the package_list.txt file:
+
+`conda create -yn IBMQRISEproj python==3.9.11 && conda activate IBMQRISEproj`
+
+`conda update -yn base -c defaults conda && conda install -yc conda-forge pip==22.1.2`
+
+`python3 -m pip install --user --upgrade pip && python3 -m pip install -r requirements.txt`
+
+QISKIT Installation:
+
 `!pip install qiskit`
 
 `!pip install qiskit.visualization`
