@@ -40,12 +40,12 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 3. Improvements in the circuit can be made by introducing a more robust error-free model to get the fidelity higher than 99.6%.
 
 ## Installation
-First Step- to run locally
+for running this locally
 
-Create a conda environment with the required dependencies:
+Create a conda environment with the required dependencies mentioned in the package.txt file
 
 `conda env create -n QRISE environement.yml && conda activate QRISE`
-Alternatively, one can install the required dependencies via the package.txt file:
+you can install the required dependencies via the package.txt file:
 
 `conda create -yn QRISE python==3.9.11 && conda activate QRISE`
 
