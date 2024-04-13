@@ -79,12 +79,35 @@ Fidelity between ansatz state and ground state: 0.04181839960097066
 Qiskit, matplotlib, Sampler, M3, 
 ## Future Work
 Improvement in Fidelity of more than 99.6%
+Investigate more sophisticated ansatz designs tailored specifically
+for the problem at hand. This could involve exploring different
+gate sets, parameterization techniques, or deeper circuit
+architectures to potentially capture more complex quantum
+states and improve the accuracy of results.
+• Error Mitigation Techniques:
+Implement error mitigation techniques such as error correction
+codes, noise-adaptive algorithms, or post-processing methods to
+mitigate the effects of noise and errors inherent in current
+quantum devices. This could help improve the reliability and
+accuracy of calculations, especially on near-term quantum
+hardware.
+• Scale up the size of the quantum circuits used in calculations to
+tackle larger and more challenging problem instances. This
+involves optimizing circuit compilation, resource allocation, and
+execution strategies to efficiently utilize available quantum
+hardware resources.
 ## License
 
 <a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
 
 ## Acknowledgement 
-We are sincerely thankful to the IBM Quantum members for creating this exciting challenge and especially to the QRISE mentors for letting us be a part of this challenge.
+This work is done as a project for the QRise researchthon
+organized by Quantum coalition for the IBM Challenge ,The
+Team members would like to thank the organizers Caden and
+Benjamin McDonough for their support all throughout the
+challenge ,We would also like to Thank Luke Govia and Brian
+from the IBM Team for the insightful workshop on dynamic
+circuits..
 
 ## References
 1. https://arxiv.org/pdf/2005.08797.pdf
