@@ -71,6 +71,9 @@ or follow [qiskit migration guide](https://docs.quantum.ibm.com/api/migration-gu
 `Iters. done: 271 [Current cost: -2.3291976432715256]` 
 
 'Calculated Free Energy: -2.3291976432715256'
+Calculated Free Energy: 1.0 using QPRC
+     
+Fidelity between ansatz state and ground state: 0.04181839960097066
 
 ## software--tools-used
 Qiskit, matplotlib, Sampler, M3, 
