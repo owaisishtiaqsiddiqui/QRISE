@@ -36,8 +36,10 @@ Dynamic circuits are an exciting feature of IBM Quantum hardware that incorporat
 
 ## Objectives
 1. The Project seeks to demonstrate the behavior of gibbs free energy using dynamic mid-circuit measurements.
-2. Project goal is to maintain the highest fidelity possible using the above technique.
-3. Improvements in the circuit can be made by introducing a more robust error-free model to get the fidelity higher than 99.6%.
+2. Develop a framework for estimating the free energy of quantum systems using variational quantum algorithms.
+3 Implement ansatz parameterization techniques to construct parameterized quantum circuits capable of preparing quantum states relevant to the free energy calculation.
+4 Design efficient algorithms for estimating expectation values of Hamiltonians and computing the free energy based on the obtained results.
+5 Evaluate the performance of the developed framework through empirical analysis, including benchmarking, optimization,
 
 ## Installation
 for running this locally
