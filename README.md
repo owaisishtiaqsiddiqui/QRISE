@@ -28,7 +28,7 @@
 
 ## Problem Statement
 ![image](https://github.com/owaisishtiaqsiddiqui/QRISE/assets/108402760/514cee08-6a08-4ccd-aa60-583d541c6a2f)
-
+Github Directions to file [Final error mitigation](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/FinalErrorMitigation.ipynb), [PPT/Presentation](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/QRise_Final_PPT.pdf), [VQE](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VQE_simulation.ipynb), [VQE Dynamic](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VariationQuatumGibbs.ipynb) [QPRC](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VariationQuatumGibbsWithQPRC.ipynb)
 Dynamic Circuit Challenge: Maximizing Performance and Tayloring Noise
 
 ## Challenge Description 
