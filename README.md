@@ -1,3 +1,4 @@
+QRise IBM Challenge winning team
 **IBM Quantum QRise Challenge -Quantum Coalition 2024**
 All the important files can be located here Github Directory path to file [Final error mitigation](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/FinalErrorMitigation.ipynb), [PPT/Presentation](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/QRise_Final_PPT.pdf), [VQE](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VQE_simulation.ipynb), [VQE Dynamic](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VariationQuatumGibbs.ipynb) [QPRC](https://github.com/owaisishtiaqsiddiqui/QRISE/blob/main/VariationQuatumGibbsWithQPRC.ipynb)
 # :space_invader: IBM Dynamics Circuit Challenge challenge- Team Feynman Prodigies 
