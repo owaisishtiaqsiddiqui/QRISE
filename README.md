@@ -113,3 +113,4 @@ circuits..
 ## References
 1. https://arxiv.org/pdf/2005.08797.pdf
 2. https://arxiv.org/pdf/2312.14139.pdf
+3. Quantum Wednesday talk By Misty wahl QPRC
